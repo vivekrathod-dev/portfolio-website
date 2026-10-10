@@ -1,4 +1,3 @@
-import { cn } from '@/utils/utils';
 import { Spotlight } from './ui/spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect';
 import MagicButton from './ui/MagicButton'
